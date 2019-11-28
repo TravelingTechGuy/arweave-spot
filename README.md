@@ -25,8 +25,8 @@ The data is taken from a service I wrote, and deployed to Netlify. I'll maintain
 
 If you'd like to drop some crypto my way, or would like me to add more features:
 
-**AR address:** c7xt-ZuDJak17bJSkCr56r9kpGyZUkY3CRhY0uVB0dU  
-**ETH address:** 0x08c05f41D2Bb4c8E840dfac4C0aBFA7A6524B94C
+***AR address:*** `c7xt-ZuDJak17bJSkCr56r9kpGyZUkY3CRhY0uVB0dU`  
+***ETH address:*** `0x08c05f41D2Bb4c8E840dfac4C0aBFA7A6524B94C` 
 
 ## License
 
