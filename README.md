@@ -10,8 +10,9 @@ Currrently, [deployed to the Permaweb](https://p7aucde3ks72.arweave.net/ygBvjmZ4
 1. `cd arweave-spot && yarn install`. (If you don't use `yarn`, `npm install` would do).
 1. `yarn start` (or `npm start`) to start serving on localhost.
 
-## Deploying to the permaweb
+## Deploying to the Permaweb
 
+1. Make sure you have `arweave-deploy` installed (`npm install -g arweave-deploy`).
 1. `yarn build` (or `npm run build`) to build the app.
 1. `arweave deploy build/index.html --key-file path/to/arweave-key.json --package`.
 1. Read the official [Arweave deploy documentation](https://docs.arweave.org/developers/tools/arweave-deploy) for more options and troubleshooting.
