@@ -1,8 +1,10 @@
 # [Precious Metals Spot Price](https://p7aucde3ks72.arweave.net/ygBvjmZ4Hh8zuh2S1wzchS8stYrJljE6BWdZCaxut08)
 
-The app shows the current spot prices of 5 precious metals. It supports manual and automatic refresh.
+The app shows the current spot prices of 5 precious metals. It supports manual and automatic refresh.  
 
 Currrently, [deployed to the Permaweb](https://p7aucde3ks72.arweave.net/ygBvjmZ4Hh8zuh2S1wzchS8stYrJljE6BWdZCaxut08).
+
+If you'd like me to add more features, open a feature request issue.
 
 ## Installation
 
@@ -21,13 +23,11 @@ Currrently, [deployed to the Permaweb](https://p7aucde3ks72.arweave.net/ygBvjmZ4
 
 The data is taken from a service I wrote, and deployed to Netlify. I'll maintain it for the forseeable future. If not, a different service can easily be substituted in.
 
-## Tips
-
-If you'd like me to add more features, or just feel loke tipping 💁:
+## Tips 💁
 
 ***AR address:*** `c7xt-ZuDJak17bJSkCr56r9kpGyZUkY3CRhY0uVB0dU`  
 ***ETH address:*** `0x08c05f41D2Bb4c8E840dfac4C0aBFA7A6524B94C`  
-***BAT*** use the Brave browser to send a tip  
+***BAT:*** use the Brave browser to send a tip  
 
 ## License
 
