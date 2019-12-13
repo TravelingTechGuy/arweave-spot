@@ -18,6 +18,9 @@ export default () => {
     try {
       setLoading(true);
       let response = await fetch(URL);
+      if(!response.ok) {
+        throw new Error(await response.text());
+      }
       let json = await response.json();
       setError(null);
       setData(json);
